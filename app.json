@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "charts",
+    "slug": "charts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "splash": {
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    },
+    "web": {
+    }
+  }
+}
