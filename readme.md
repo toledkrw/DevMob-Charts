@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="assets\map.gif" style="width:200px; height:200px;"alt="Logo" />
+    <img src="https://media3.giphy.com/media/l2JdTgYZ7VG4EeBVe/giphy.gif" style="width:200px; height:200px;"alt="Logo" />
   </a>
 
   <h3 align="center">Desenvolvimento Móvel Avançado - Charts</h3>
@@ -15,9 +15,9 @@
 
 Esse projeto foi criado para demonstrar a utilização das seguintes bibliotecas que fazem a plottagem de gráficos:
 
-- 
-- 
-- 
+- Victory Native
+- React Native Chart Kit
+- react-native-svg-charts
 
 Neste trabalho deve ser desenvolvido um aplicativo que compare 3 bibliotecas diferentes para a construção de gráficos. Os dados comparados devem ser os mesmos mas, para cada biblioteca, os gráficos devem ser apresentados em uma tela diferente. Deverão ser apresentados pelo menos 3 gráficos diferentes, o gráfico de barras, de linha e de pizza.
 
